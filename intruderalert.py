@@ -1,5 +1,5 @@
 # Authored by Duy Dao. 4/23/2019.
-# Follow@ twitter.com/DuyTheDao
+# Follow@ github.com/DuyTheDao
 # Do as you please.
 # This was created for learning purposes.
 #######################################################################
